@@ -1,1 +1,0 @@
-/Users/zlong/.oh-my-zsh/themes/agnoster.zsh-theme
